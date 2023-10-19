@@ -1,2 +1,2 @@
-# Modeling_Lab_Class
+# Modeling Lab
 Notebooks for Modeling lab (CH-315) class
